@@ -1,0 +1,15 @@
+{
+  "arithematic_operators": "",
+  "complexity": 1,
+  "conditional": "",
+  "conditions": 0,
+  "constants": "5",
+  "expected_output": "5",
+  "id": 2,
+  "loops": 0,
+  "quest_prompt": "Print 5?",
+  "reward": 10,
+  "type": "VAR",
+  "variables": 2,
+  "connectors": 1
+}

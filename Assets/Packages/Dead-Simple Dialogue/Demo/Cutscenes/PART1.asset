@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d2a9460aae1c4420a415466d1db880f, type: 3}
+  m_Name: PART1
+  m_EditorClassIdentifier: 
+  Title: PART 1
+  Exchanges:
+  - Lines:
+    - Text: Hello there! My name is Alex.
+      Guid:
+        Value: 12b8d659-4f43-4b4a-be5b-d561597d328e
+    - Text: I hope you love pancakes!
+      Guid:
+        Value: c108d7c3-9413-4f8f-a102-fe2a8f18d330
+    - Text: Because I sure as heck love 'em myself.
+      Guid:
+        Value: 2be1d313-8af0-4cc4-8fbc-e8301384c771
+    Speaker: Alex
+    Guid:
+      Value: b2ded784-7178-4971-adcc-160d7d04e8fc
+  - Lines:
+    - Text: Oh boi, I hate those!
+      Guid:
+        Value: a10fa120-c3f0-400b-becd-1b6289169c4f
+    - Text: You suck!
+      Guid:
+        Value: 074ee3fd-4ceb-466b-80e7-e8e7e2998a2b
+    - Text: LOL
+      Guid:
+        Value: 983a9294-0722-4d1d-8223-830b9db03ecb
+    Speaker: JASON
+    Guid:
+      Value: 29768fdd-d306-4645-aa48-820a9275a184
+  Guid:
+    Value: 3ca7c57c-fe0b-4c31-9dca-9211dd3f128a

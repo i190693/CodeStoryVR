@@ -1,0 +1,15 @@
+{
+  "arithematic_operators": "SUB",
+  "complexity": 1,
+  "conditional": "",
+  "conditions": 0,
+  "constants": "6,5",
+  "expected_output": "11",
+  "id": 3,
+  "loops": 0,
+  "quest_prompt": "Given 6 and 5, make 1?",
+  "reward": 10,
+  "type": "ATH",
+  "variables": 2,
+  "connectors": 3
+}
